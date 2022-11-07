@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BMI App</string>
+    <string name="welcome">Selamat Datang!</string>
+    <string name="perintah">Untuk memulai perhitungan BMI, silahkan masukkan berat badan dan tinggi anda.</string>
+    <string name="berat">Berat Badan (kg)</string>
+    <string name="tinggi">Tinggi Badan (cm)</string>
+    <string name="pilihjeniskelamin">Pilih Jenis Kelamin</string>
+    <string name="buttonPlaceholder">Hitung BMI</string>
+    <string-array name="jenis_kelamin">
+        <item>Laki-laki</item>
+        <item>Perempuan</item>
+    </string-array>
+</resources>
